@@ -1,5 +1,6 @@
 # javaPerimeterAndArea
 Dairenin Alanını ve Çevresini Hesaplayan Program
+Calculate the area and perimeter of a circle wiht Java
 Java ile yarı çapını kullanıcıdan aldığınız dairenin alanını ve çevresini hesaplayan programı yazın.
 
 Alan Formülü : π * r * r;
